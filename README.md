@@ -1,4 +1,6 @@
-## Hi there 👋
+## 你好~ 👋
+
+这里是**鱼干**~
 
 <!--
 **StickyMouse27/StickyMouse27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
